@@ -1,2 +1,3 @@
-#Nombre: Justina Mamani
-#Código: 4715
+PRE EXAMEN
+Nombre: Justina Mamani
+CÃ³digo: 4715
